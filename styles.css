@@ -1,0 +1,66 @@
+body{
+    background-color: bisque;
+    
+}
+
+button{
+    font-weight: bold;
+    font-size: 15px;
+}
+
+
+.contenido{
+    width: 300px;
+}
+
+.contenido_inputs{
+    height: 10%;
+    display: flex;
+}
+
+.contenido_inputs_input{
+    margin-right: 10px;
+    width: 81px;
+    height: 25px;
+
+}
+
+.contenido_operaciones_basicas{
+    margin-top: 10px;
+    display: flex;
+    align-content: space-around;
+}
+
+.operaciones_basicas{
+    width: 40px;
+    height: 35px;
+    margin-right: 9px;
+}
+
+.contenido_operaciones_avanzadas{
+    margin-top: 10px;
+}
+
+.operaciones_avanzadas{
+    width: 89px;
+    margin-right: 5px;
+}
+
+#resultado{
+    background-color: aliceblue;
+    width: 185px;
+    height: 25px;
+    border: 1px solid black;
+    border-radius: 3px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+
+.contenido_redondeo{
+    margin-top: 10px;
+}
+
+.redondeos{
+    width: 60px;
+}
